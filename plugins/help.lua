@@ -12,7 +12,7 @@ do
 function mohammed(msg, matches) 
 local reply_id = msg['id'] 
 local S = [[ 
-🀄️Orders  ═╬═ ᗨ   TeleBoss 
+ 
 
 🗯 h1 : لعرض الاوامر الرئيسية  🗯
 
@@ -37,11 +37,13 @@ local S = [[
 🔘 Sudo : لعرض اوامر المطور  🔘
 
 🔺🔺🔻🔺🔺🔺🔺🔺🔺🔺
-جميع الحقوق محفوظة للزعيم ™
-🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+😽 DEV🔸HERO
+😻 DEV🔸ASHRAF
+😼 DEV🔸SHRNGAN
+🔺🔺🔺🔺🔺🔺🔺🔺🔺
+🔻🔻🔻🔻🔻🔻🔻🔻🔻
+😽 @ASCVI
+😻 @SAN8IQ
 ]] 
 reply_msg(reply_id, S, ok_cb, false) 
 end 
