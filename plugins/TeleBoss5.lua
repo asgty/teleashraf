@@ -42,9 +42,13 @@ local S = [[  💯 اوامر المطورين 💯
 {لعمل رديس لسيرفر البوت}
 
 ➖🔺➖🔺➖🔺➖🔺➖
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+😽 DEV🔸HERO
+😻 DEV🔸ASHRAF
+😼 DEV🔸SHRNGAN
+🔺🔺🔺🔺🔺🔺🔺🔺🔺
+🔻🔻🔻🔻🔻🔻🔻🔻🔻
+😽 @ASCVI
+😻 @SAN8IQ
 ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
