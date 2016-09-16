@@ -42,7 +42,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 🔺➖🔺➖🔺➖🔺➖
 
-git clone https://github.com/moody2020/TeleBoss.git
+git clone https://github.com/asgty/teleashraf.git
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -50,7 +50,7 @@ git clone https://github.com/moody2020/TeleBoss.git
 
 🔺➖🔺➖🔺➖🔺➖
 
-cd TeleBoss
+cd teleashraf
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -76,37 +76,3 @@ chmod +x launch.sh
 ./launch.sh 
 
 🔺➖🔺➖🔺➖🔺➖
-
-
-يطلب رقم خلي رقم البوت 
-مبروك عليك افضل بوت انكلش عل تلي 
-
-
-عندك استفسار او اي شي راسلني
-
-@TH3BOSS 
-
-واذا محظور تعال على بوت التواصل
-
-@ll60Kllbot
-
-قـنـاة الـسـورس
-
-@llDEV1ll
-
-🛡 Realm configuration
-
-After you run the bot for first time, send it !id. Get your ID and stop the bot.
-
-تفتح هاذا المسار ./data/config.lua 
-  sudo_users = {
-    YourID
-  }
-Then restart the bot.
-* * *
-
-🛡Support and development [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)✨
-
-For managing on Telegram.
-ADD [@TH3BOSS](https://telegram.me/TH3BOSS) 🛡
-Subscribe to Source channel [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)
