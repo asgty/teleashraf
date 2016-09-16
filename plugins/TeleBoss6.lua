@@ -31,9 +31,13 @@ open media - فتح الوسائط
 open gifs - فتح الصور المتحركه 
 open emoji - فتح الملصقات 
 ➖🔺➖🔺➖🔺➖🔺➖
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+😽 DEV🔸HERO
+😻 DEV🔸ASHRAF
+😼 DEV🔸SHRNGAN
+🔺🔺🔺🔺🔺🔺🔺🔺🔺
+🔻🔻🔻🔻🔻🔻🔻🔻🔻
+😽 @ASCVI
+😻 @SAN8IQ
 ]]
 reply_msg(reply_id, S, ok_cb, false) 
 end
