@@ -137,7 +137,7 @@ local function mohammed(msg, matches)
 		a=a+1
 		result_text = result_text..a.."- "..result[a].."\n\n"
 	end
-	return result_text.."🃏〰〰〰〰〰〰〰〰〰🃏\n💯-Đєⱴ💀: @TH3BOSS\n💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot\n💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll"end
+	return result_text.."🃏〰〰〰〰〰〰〰〰〰🃏\n💯-Đєⱴ💀:@SAN8IQ"end
 
 return {
 	description = "Fantasy Writer",
